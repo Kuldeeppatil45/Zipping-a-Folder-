@@ -49,8 +49,14 @@ If the folder is empty, the program will create an empty .zip file without error
 If there are permission issues, the program will display an appropriate error message.
 
 # Testing
+
 Test with:
+
 A small folder containing a few files and subdirectories.
+
 A large folder with multiple levels of subdirectories and files.
+
 An empty folder.
+
 Verify that the resulting .zip file can be extracted and matches the original folder structure.
+
